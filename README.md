@@ -8,3 +8,5 @@ El problema que tengo es que tardo mucho en ver los productos y no sé dónde pe
 ### Documentación adicional
 - [Licencia](LICENSE)
 - [Documentación Adicional](documentacion)
+- [Historias de usuario](docs/historias_usuario.md)
+- [Milestone](docs/milestones.md)
