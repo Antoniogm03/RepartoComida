@@ -2,9 +2,16 @@
 
 ## Contexto
 
-### Pedro
-- Todas las semanas pido para comer. Cuando voy a pedir, no se qué restaurantes están disponibles ya que puede ser que estén cerrados por vacaciones, horarios...
+### [US1] - Mirar carta
+- Todas las semanas pido para comer. Cuando voy a pedir, el proceso es muy tedioso, ya que tengo que abrir instagram, buscar el nombre del establecimiento y buscar las cartas de cada uno que están repartidas en varias imágenes.
+- Pasos:
+1. El estudiante abre la aplicación y elige la opción "Establecimientos disponibles".
+2. Elige el establecimiento del cual quiere ver la carta y tendrá toda la información de dicho restaurante.
 
-- Una vez sé que restaurantes hay disponibles. Las cartas de cada uno están repartidas en varias imágenes, por lo que me cuesta ver claramente que productos tiene cada restaurante. Me gustaría ver claramente que productos tiene cada uno.
+### [US2] - Pedir producto.
 
-- Una vez tengo todos los precios. Cuando por fin he decidido que producto quiero, quiero que me aparezca el producto más barato junto al restaurante al que pertenece y que el precio del producto incluya los gastos de envío.
+- Cuando quiero pedir un producto, no se en qué restaurante pedir de forma que me salga el precio total lo más barato posible.
+- Pasos:
+1. El estudiante abre la aplicación y elige la opción "Pedir Producto".
+2. Ingresa el nombre del producto. Por ejemplo: "Pizza Barbacoa".
+3. La aplicación le devuelve al estudiante el nombre del establecimiento (este siempre va a estar disponible para pedir, ya que estará dentro de su horario de apertura), junto al nombre del producto y precio total incluyendo gastos de envío.
